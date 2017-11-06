@@ -12,3 +12,6 @@ __________________
 3. Explain javascript event loop.
 4. How to convert false to 0 and true to 1?
 5. Why we should not declare variables globally?
+6. How to check if number is a NaN?
+7. Explain working of a prototype.
+8. What are pitfalls of closures?
