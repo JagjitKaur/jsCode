@@ -15,3 +15,11 @@ __________________
 6. How to check if number is a NaN?
 7. Explain working of a prototype.
 8. What are pitfalls of closures?
+9.How to convert a boolean to number in javascript?",
+10.How to print fizz and buzz consecutively in javascript without using if condition while calling fizzBuzz()?",
+11.Create array method named duplicate which could duplicate the array value passed to it using ecma6 features.Eg, [1,2].duplicate should output [1,2,1,2]?",12.How to reverse a string.eg, hello world should output olleh dlrow?
+12.Can you explain destructuring and how is it useful?
+13.What are the different data types in javascript?
+14.Which data structure is javascript based on?
+15.What are the benefits of using typescript over javascript?","What are the differences between `==` and `===`?
+16.What are the differences between set and array?

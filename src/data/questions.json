@@ -1,0 +1,10 @@
+{
+"questions":[ "How to convert a boolean to number in javascript?",
+"How to print fizz and buzz consecutively in javascript without using if condition while calling fizzBuzz()?",
+"Create array method named duplicate which could duplicate the array value passed to it using ecma6 features.Eg, [1,2].duplicate should output [1,2,1,2]?",
+"How to reverse a string.eg, hello world should output olleh dlrow?",
+"Can you explain destructuring and how is it useful?",
+"What are the different data types in javascript?",
+"Which data structure is javascript based on?",
+"What are the benefits of using typescript over javascript?"]
+}
